@@ -206,8 +206,6 @@ Contributors are encouraged to submit merge requests or file bugs on
 
 Join us on IRC at #pipewire on [OFTC](https://www.oftc.net/).
 
-We adhere to the Contributor Covenant for our [code of conduct](CODE_OF_CONDUCT.md).
-
 [Donate using Liberapay](https://liberapay.com/PipeWire/donate).
 
 ## Getting help
